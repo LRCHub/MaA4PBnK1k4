@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Over the clouds",
+  "base_artist": "alan",
+  "createdAt": "2026-03-14T12:28:52.981302Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Over the clouds",
+      "artist": "阿蘭",
+      "has_synced": true,
+      "path": "select/01_Over_the_clouds_阿蘭.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Over the clouds",
+      "artist": "alan",
+      "has_synced": true,
+      "path": "select/02_Over_the_clouds_alan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Celebrate (The Love)  (Over the Clouds Edit)",
+      "artist": "Zhi-Vago",
+      "has_synced": false,
+      "path": "select/03_Celebrate_(The_Love)_(Over_the_Clouds_Edit)_Zhi-Vago.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Celebrate (The Love)  (Over the Clouds Mix)",
+      "artist": "Zhi-Vago",
+      "has_synced": false,
+      "path": "select/04_Celebrate_(The_Love)_(Over_the_Clouds_Mix)_Zhi-Vago.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Celebrate (The Love) (Over the Clouds edit)",
+      "artist": "Zhi‐Vago",
+      "has_synced": false,
+      "path": "select/05_Celebrate_(The_Love)_(Over_the_Clouds_edit)_Zhi‐Vago.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Over the Clouds",
+      "artist": "Against Myself",
+      "has_synced": false,
+      "path": "select/06_Over_the_Clouds_Against_Myself.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Over the Clouds",
+      "artist": "BrvndonP",
+      "has_synced": false,
+      "path": "select/07_Over_the_Clouds_BrvndonP.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Over the clouds",
+      "artist": "alan",
+      "has_synced": true,
+      "path": "select/08_Over_the_clouds_alan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Over The Clouds - Burst Mix",
+      "artist": "alan",
+      "has_synced": true,
+      "path": "select/09_Over_The_Clouds_-_Burst_Mix_alan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Over the clouds",
+      "artist": "alan",
+      "has_synced": false,
+      "path": "select/pl_01_Over_the_clouds_alan.txt"
+    }
+  ]
+}
